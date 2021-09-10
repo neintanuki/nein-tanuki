@@ -1,46 +1,68 @@
-## :wave:&nbsp;Hi there. Nice to see you!
-### :man:&nbsp;About Me
+# Hi there! Nice to meet you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my profile!\
-I'm an aspiring web developer from :philippines: Philippines\
+### I’m a programmer on beta testing.
 
-### :wrench:&nbsp;Tech Stack
+Hi there! My name is Eleazar and I’ve been doing programming since 10th grade!
 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node-js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;\
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;\
-![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=inkscape)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;\
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+I’ve always been a type of person that enjoyed solving things. When I was young, I enjoyed playing games that involves puzzles, problem solving, and logical thinking. *Professor Layton* and *Ace Attorney* are some of my favorite games to play.
 
-### :bar_chart:&nbsp;Github Analytics
+I was fascinated by the nature of programming when I first heard of it. From that spark of curiosity, I started learning the art one step at a time. C is my first programming language that taught me the important fundamentals and core aspects of programming. Thanks to it, I become more comfortable in learning other programming languages and technologies.
 
-<p align="center">
-<a href="https://github.com/nein-tanuki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nein-tanuki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nein-tanuki&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+During my spare time you might find me reading some manga, watching an anime series, playing some rhythm games such as *osu* (I’m not good though), or just simply taking a nap. 
 
+As of now, I’m focusing myself more on web development. I recently graduated from senior high school (ICT Strand) and currently taking my bachelor’s degree in Information Technology. Wish me luck!
 
-<!--
-**nein-tanuki/nein-tanuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things that I should do
 
-Here are some ideas to get you started:
+:pencil: Do more projects in order to build a portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:walking: Be more responsible
+
+:telescope: Exploring and learning things
+
+:full_moon: Having a good night sleep
+
+### If you want to see the highlight of my production so far, check:
+
+* **Front End Design**
+  * [UIKit](https://nein-tanuki.github.io/UIkit/)
+  * [Foodie](https://nein-tanuki.github.io/foodie/)
+  * [Kreative](https://nein-tanuki.github.io/kreative/)
+
+### My Stack
+
+#### Languages:
+
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/-C-239120?style=flat&logo=c&logoColor=white)
+
+#### Application and Data:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### UI/UX
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+#### Utilities
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### DevOps
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+### Github Stats
+
+![Eleazar Romero's github stats](https://github-readme-stats.vercel.app/api?username=nein-tanuki&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nein-tanuki&theme=great-gatsby&layout=compact)
