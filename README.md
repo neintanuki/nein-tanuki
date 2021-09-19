@@ -22,7 +22,7 @@ As of now, I’m focusing myself more on web development. I recently graduated f
 
 :full_moon: Having a good night sleep
 
-### If you want to see the highlight of my production so far, check:
+### If you want to see some highlights of my production so far, check:
 
 * **Front End Design**
   * [UIKit](https://nein-tanuki.github.io/UIkit/)
